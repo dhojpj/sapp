@@ -1,6 +1,6 @@
 import React, { useState, useCallback } from "react";
-// import Head from "next/head";
-import { ResourcePicker } from "@shopify/app-bridge-react";
+// // import Head from "next/head";
+// import { ResourcePicker } from "@shopify/app-bridge-react";
 import {
   // Avatar,
   // Badge,
