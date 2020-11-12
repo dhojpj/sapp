@@ -25,7 +25,7 @@
       }
   }
 
-  $.get( "https://68d04f5df320.ngrok.io/api/banners", function(data) {
+  $.get( "https://sapp0.herokuapp.com/api/banners", function(data) {
     console.log( "success" );
     // console.log(data)
     })
